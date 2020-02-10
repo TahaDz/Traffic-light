@@ -17,3 +17,7 @@ We suppose that :
 
 - The sensor is located 50 meters from “feu2”.
 - the maximum period for a car to pass the intersection is "4" seconds
+
+
+### how to compile
+make
